@@ -3,7 +3,7 @@
 const os = require('os');
 const path = require('path');
 
-const APP_NAME = 'config-manager-c8e78d';
+const APP_NAME = 'config-manager-bec346';
 const VERSION = '1.5.0';
 
 class configmanagerHandler {

