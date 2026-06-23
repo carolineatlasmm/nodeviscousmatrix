@@ -1,4 +1,4 @@
-# config-manager-bec346
+# config-manager-03e88a
 
 A Node.js config-manager utility.
 
